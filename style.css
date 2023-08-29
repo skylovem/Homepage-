@@ -1,0 +1,38 @@
+body{
+	background-color: rgb(102, 102, 102);
+	color: rgb(6, 22, 1);
+}
+table{
+	font-size: large;
+text-align: right;
+text-shadow: 5px;
+text-transform: uppercase;
+padding-right: 5px;
+table-layout: auto;
+border-spacing: 10px;
+border-color: black;
+border-width: 20px;
+}
+p{
+	text-transform: initial;
+	display: inline;
+	font-weight: bold;font-size: medium;
+	border-color: rgb(55, 55, 161);border-radius: 2px;border-style: groove;
+	text-decoration: wavy;text-align: centre;
+	block-size: auto;
+	text-transform: capitalize;
+}
+button{
+    color: rgb(7, 2, 31);
+    border-radius: 2px;
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bolder;
+	text-indent: 5px;
+}
+home{
+	text-align: center;
+	top: auto;
+}
